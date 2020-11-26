@@ -1,2 +1,2 @@
 # assessment
-あなたのいいところ診断ゲーム
+takoyakiman-hubが作ったあなたのいいところ診断ゲーム
